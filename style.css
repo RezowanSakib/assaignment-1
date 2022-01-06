@@ -1,7 +1,7 @@
 .year {
   color: rgb(216, 137, 111);
 }
-.focus {
+.explore {
   display: flex;
 }
 #mission-1 {
@@ -11,10 +11,15 @@
 }
 .first-heading {
   margin: auto;
-  padding: 10px;
+  padding: 5px;
   border-left: 3px solid coral;
 }
-.image {
+.promise {
+  padding: 15px;
+}
+.image-1 {
+  height: 70%;
+
   width: 50%;
   padding-top: 0px;
   margin-top: 0;
@@ -23,10 +28,17 @@
 .btn {
   text-decoration: none;
   background-color: rgb(32, 39, 19);
-  padding: 5px;
+  padding: 10px;
   border-radius: 10px;
   font-size: 20px;
   color: beige;
+}
+.scrole {
+  padding: 15px;
+}
+.img-mission {
+  height: 40%;
+  width: 40%;
 }
 .heading-2 {
   padding-left: 500px;
@@ -98,4 +110,38 @@
   padding-left: 500px;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+.education {
+  display: flex;
+
+  padding-left: 30px;
+  padding-bottom: 15px;
+}
+.img-edu {
+  height: 40%;
+  width: 40%;
+}
+.academic {
+  background-color: rgb(214, 214, 3);
+  width: 30%;
+  padding: 20px;
+  margin: 5px;
+  height: 40%;
+  border-radius: 20px;
+}
+.skills {
+  background-color: rgb(177, 177, 6);
+  width: 30%;
+  padding: 20px;
+  margin: 5px;
+  height: 40%;
+  border-radius: 20px;
+}
+.expe {
+  background-color: rgb(175, 175, 34);
+  width: 30%;
+  padding: 20px;
+  margin: 5px;
+  height: 40%;
+  border-radius: 20px;
 }
